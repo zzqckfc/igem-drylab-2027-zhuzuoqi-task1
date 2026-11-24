@@ -1,0 +1,14 @@
+receptor = docking/receptor_A.pdbqt
+ligand = docking/E20_docking.pdbqt
+center_x = -14.1085
+center_y = -43.8327
+center_z = 27.6699
+size_x = 24
+size_y = 24
+size_z = 24
+exhaustiveness = 32
+num_modes = 9
+energy_range = 4
+seed = 2027
+cpu = 4
+out = docking/vina_poses.pdbqt

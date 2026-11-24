@@ -1,0 +1,11 @@
+{
+  "pdb_id": "4EY7",
+  "reference": "A:E20:604",
+  "rank": 1,
+  "vina_score_kcal_mol": -12.211,
+  "crystal_heavy_atom_rmsd_angstrom": 0.3488,
+  "heavy_atoms": 28,
+  "symmetry_mappings": 4,
+  "success_threshold_angstrom": 2,
+  "success": true
+}

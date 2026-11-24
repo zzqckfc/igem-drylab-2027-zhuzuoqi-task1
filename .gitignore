@@ -1,0 +1,6 @@
+.tools/
+.venv/
+__pycache__/
+*.py[cod]
+pymol/_render/
+!docking/vina.log
